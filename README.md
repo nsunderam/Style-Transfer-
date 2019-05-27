@@ -8,3 +8,4 @@ The following content image will be used:
 
 
 The following style image will be used:
+![Van_Gogh_-_Terrasse_des_Cafés_an_der_Place_du_Forum_in_Arles_am_Abend1](https://user-images.githubusercontent.com/39443902/58422455-8400d500-808a-11e9-8beb-806f65931822.jpeg)
