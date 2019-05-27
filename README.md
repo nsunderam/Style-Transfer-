@@ -21,3 +21,7 @@ vgg19.features, which are all the convolutional and pooling layers
 vgg19.classifier, which are the three linear, classifier layers at the end
 
 To get the content and style representations of an image, we have to pass an image forward through the VGG19 network until we get to the desired layer(s) and then get the output from that layer.
+
+The end result looks like the following:
+![mevangogh](https://user-images.githubusercontent.com/39443902/58422766-59634c00-808b-11e9-94d3-ab577c7dc74d.png)
+
